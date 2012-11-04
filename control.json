@@ -1,0 +1,10 @@
+{
+    "name"    : "webapps-jquery-location-picker-lib", 
+    "version" : "0.1.0",
+    "classes" : ["JQueryLocationPicker"],
+    "static"  : ["jquery-location-picker"],
+    "deps"    : [
+        "webapps-framework-lib",
+	"webapps-jquery-lib"
+    ]
+}
